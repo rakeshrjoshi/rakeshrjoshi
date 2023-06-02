@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakeshrjoshi
 - 👀 I’m interested in dsa
-- 🌱 I’m currently learning python django 
-- 💞️ I’m looking to collaborate on teaching
+- 🌱 I’m currently learning Spring Boot
+- 💞️ I’m looking to do projects on React.js and spring Boot
 - 📫 mail me for any query rrjoshi2101998@gmail.com
 
 <!---
